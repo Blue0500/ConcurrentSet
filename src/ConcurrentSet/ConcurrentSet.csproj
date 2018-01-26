@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.1;net45</TargetFrameworks>
+    <RootNamespace>JoshuaKearney.Collections</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>A simple wrapper around ConcurrentDictionary to support set operations</Description>
+    <PackageTags>ConcurrentSet Set</PackageTags>
+    <Company>Josh Kearney</Company>
+    <Authors>Josh Kearney</Authors>
+    <Copyright>Copyright © 2017</Copyright>    
+  </PropertyGroup>
+</Project>
